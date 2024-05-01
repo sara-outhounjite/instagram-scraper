@@ -12,8 +12,8 @@ post_data = 'https://www.instagram.com/p/{shortcode}/?__a=1'
 
 
 proxies = {
-         'http': 'Enter Proxy here',
-         'https': 'Enter Proxy here'
+         'http': 'http://123.456.789.10:8080',
+         'https': 'https://123.456.789.10:8080'
 }
 
 
